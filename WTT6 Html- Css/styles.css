@@ -1,0 +1,29 @@
+.site{
+width: 1200px;
+min-height: 100vh;
+background-color: gray;
+margin: 0 auto;
+}
+
+.banner{
+width: 100%;
+height: 150px;
+background-color: aqua;
+margin-bottom: 10px;
+}
+
+.link{
+    width: 200px;
+    min-height: 200px;
+    background-color: blueviolet;
+    float: left;
+}
+
+.content{
+    width: 990px;
+    margin-left: 10px;
+    min-height: 600px;
+    background-color: brown;
+    float: left;
+}
+
